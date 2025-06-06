@@ -10,13 +10,14 @@ npm-debug.log
 .eslintcache
 logs/
 .idea/
-.icloud
-.pkl
-extra_outputs/
 .ipynb_checkpoints/
 __pycache__/
 *.log
 npm-debug.log*
+*.pdf
 *.png
 *.csv
 *.tex
+Metrics/Plots/*.png
+Metrics/sajadian_events/*.dat
+Metrics/test/*.png
